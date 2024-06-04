@@ -7,6 +7,7 @@ The database contains monthly quantitative values of preventive actions carried 
 **Attribute Information:-**
 
 --preventive actions--
+
 ANO                                                                                           
 MÊS                                                                                           
 ÁREA                                                                                          
@@ -41,6 +42,7 @@ RONDAS PREVENTIVAS EM ÁREA RURAL
 RONDAS PREVENTIVAS EM ÁREA URBANA   
 
 --possible target attribute--
+
 ROUBO                                                                                         
 HOMICIDIO DOLOSO                                                                                                             
 FURTO                                                                                         
@@ -53,6 +55,7 @@ DROGAS
 PERTURBAÇÃO  
 
 --target attribute used in the model-- 
+
 ROUBO EM VIA URBANA 
      
 
